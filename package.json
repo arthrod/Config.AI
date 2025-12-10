@@ -23,7 +23,7 @@
 		"@plasmohq/storage": "^1.10.0",
 		"@reduxjs/toolkit": "^2.2.3",
 		"fuse.js": "^7.0.0",
-		"langchain": "^0.1.33",
+		"langchain": "^0.3.36",
 		"plasmo": "0.85.2",
 		"prompts": "link:@langchain/core/prompts",
 		"react": "18.2.0",
