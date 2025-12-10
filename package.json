@@ -27,7 +27,7 @@
 		"plasmo": "0.85.2",
 		"prompts": "link:@langchain/core/prompts",
 		"react": "18.2.0",
-		"react-dom": "18.2.0",
+		"react-dom": "18.3.1",
 		"react-redux": "^9.1.1",
 		"react-router-dom": "^6.23.0",
 		"react-spinners": "^0.13.8",
